@@ -1,4 +1,4 @@
-  Q1
+
 #include<iostream>
 using namespace std;
 int arr[100];
